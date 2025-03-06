@@ -1,0 +1,11 @@
+C:\Users\OS\source\repos\BT01_03\bin\Debug\BT01_03.exe.config
+C:\Users\OS\source\repos\BT01_03\bin\Debug\BT01_03.exe
+C:\Users\OS\source\repos\BT01_03\bin\Debug\BT01_03.pdb
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.Detail.resources
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.Main.resources
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.Properties.Resources.resources
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.exe
+C:\Users\OS\source\repos\BT01_03\obj\Debug\BT01_03.pdb
